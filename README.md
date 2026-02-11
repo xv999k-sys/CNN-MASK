@@ -19,9 +19,9 @@ Key Features
 
 Example predictions on validation images:
 
-![pred1](demo/val_batch0_labels.jpg)
+![pred1](demo/mask0.jpg)
 ________________________________________________________________________________________________________________________________
-![pred2](demo/val_batch0_pred.jpg)
+![pred2](demo/mask1.jpg)
 AR:
 
 نظرة عامة على مشروع KMASK.
