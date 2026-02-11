@@ -15,6 +15,13 @@ Key Features
 •	Web interface using HTML & CSS
 •	Easy to use and deploy
 
+📸 Demo Results
+
+Example predictions on validation images:
+
+![pred1](demo/val_batch0_labels.jpg)
+________________________________________________________________________________________________________________________________
+![pred2](demo/val_batch0_pred.jpg)
 AR:
 
 نظرة عامة على مشروع KMASK.
